@@ -6,7 +6,7 @@
 
 * [Untitled](operating-system/untitled.md)
 
-## Database
+## database
 
 * [Storage](database/storage.md)
 
@@ -17,4 +17,12 @@
 ## algorithm
 
 * [Untitled](algorithm/untitled.md)
+
+## thoughts
+
+* [关于死亡](thoughts/about_death.md)
+
+## distributed system
+
+* [Raft笔记](distribute/raft.md)
 
