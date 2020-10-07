@@ -8,15 +8,17 @@
 
 ## database
 
-* [Storage](database/storage.md)
+* [storage](database/storage.md)
 
 ## computer network
 
-* [Untitled](computer-network/untitled.md)
+---
+
+* [Untitled](untitled.md)
 
 ## algorithm
 
-* [Untitled](algorithm/untitled.md)
+* [Untitled](algorithm/untitled-1.md)
 
 ## thoughts
 
@@ -24,5 +26,5 @@
 
 ## distributed system
 
-* [Raft笔记](distribute/raft.md)
+* [Raft笔记](distributed-system/raft-bi-ji.md)
 
